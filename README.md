@@ -33,7 +33,7 @@ NetMaster, ağ yöneticileri ve BT profesyonelleri için tasarlanmış kapsamlı
 ### Windows
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/kullaniciadiniz/netmaster.git
+git clone https://github.com/ssguler/netmaster.git
 cd netmaster
 
 # Bağımlılıkları yükleyin
