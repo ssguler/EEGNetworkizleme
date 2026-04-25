@@ -40,4 +40,4 @@ cd netmaster
 pip install -r requirements.txt
 
 # Uygulamayı başlatın
-python netmaster.py
+python eegnetworkmanagerv2.py
